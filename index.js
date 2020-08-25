@@ -7,7 +7,7 @@
 
 // *** Imports ***
 const DISCORD = require("discord.js");
-const CONFIG = require("./config.json"); // point to config file
+const CONFIG = require("./config/config.json"); // point to config file
 const CLIENT = new DISCORD.Client({ partials: ['MESSAGE', 'CHANNEL', 'REACTION'] }); // create a new Discord client
 
 // *** Listeners ***
