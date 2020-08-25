@@ -1,0 +1,26 @@
+{
+  "name": "servo-skull",
+  "version": "1.0.0",
+  "description": "Discord bot for basic administration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmouredHeart/Servo-Skull.git"
+  },
+  "keywords": [
+    "Discord",
+    "Administration"
+  ],
+  "author": "ArmouredHeart#1208",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArmouredHeart/Servo-Skull/issues"
+  },
+  "homepage": "https://github.com/ArmouredHeart/Servo-Skull#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}

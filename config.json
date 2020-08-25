@@ -1,16 +1,13 @@
 {
-    "token":"tgwiCPYBMB6TssoP-hgiADwekucy3HoT",
+    "token":"NTE1NzU1NDkxNDAyNzExMDQx.W_jcuw.S6azBxrzpXk77OzlmqM7MGL9oR8",
     "owner":"515755491402711041",
+    "youtubeAPIKey":"AIzaSyBPXUdwAg7Nvu1J7TvHdJHPplpKI2YK8Q8",
+    "discordWebhookURL":"",
+
     "prefix": "+",
-    "disableEveryone": false,
-    "unknownCommandResponse": false,
-    "websiteURL": "",
-
-    "activityText":"for heresy",
-    "activityType":"Watching",
-
-    "welcomeChannelID": "",
-    "welcomeMessage": "",
-    "welcomeFile": "",
-    "basicRole":"Serf"
+    "basicRoleName":"Serf",
+    "rulesAcceptMessageID": "745501316083744808",
+    "watchedYoutubeChannelIDs":[
+        {"channelID":"https://www.youtube.com/channel/UC6Gco9PWxmJmJ5CqfbChuiQ"}
+    ]
 }
